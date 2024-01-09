@@ -12,7 +12,7 @@ In this introductory lesson to the command line, you'll learn how to navigate ar
 
 - **Linux**: Open the programs menu and search for "Terminal". You can also open the terminal by pressing <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd> on your keyboard.
 
-- **macOS**: Open your Applications > Utilities folder and find "Terminal". You can also use Spotlight search to open Terminal. Press <kbd>Cmd</kbd> + <kbd>Space</kbd> to open Spotlight, and search for "Terminal". Press <kbd>Enter</kbd> to open it.
+- **MacOS**: Open your Applications > Utilities folder and find "Terminal". You can also use Spotlight search to open Terminal. Press <kbd>Cmd</kbd> + <kbd>Space</kbd> to open Spotlight, and search for "Terminal". Press <kbd>Enter</kbd> to open it.
 
 The window that opens will be mostly blank, with the exception of some text that will vary based on your operating system.  On Linux and older Macs the line will end with `$` and on newer Macs the line will end with `%`.  This symbol - called the prompt - indicates that the terminal is waiting for you to enter a command. Let's try that now. Type `whoami` and press <kbd>Enter</kbd>.
 
